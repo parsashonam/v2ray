@@ -1,7 +1,5 @@
-vmess://eyJhZGQiOiJzcnYxLnBhcnNhc2hvbmFtLnRlY2giLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBhcnNhc2hvbmFtLnRlY2giLCJpZCI6IjExZGI5MzMzLTJlYTgtNDQ0Zi1lNjFmLTZjZjVlYzM5YTJlYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA5NiIsInBzIjoiQHBhcnNhc2hvbmFtIPCfh6nwn4eqIGlyYW5jZWxsIH4gcmlnaHRlbCIsInNjeSI6ImF1dG8iLCJzbmkiOiJwYXJzYXNob25hbS50ZWNoIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://303ad7bb-4eb9-4cbf-edd7-ac2e2031c8a3@srv2.shodam.tech:2053?path=%2F&security=tls&encryption=none&host=Irancell.shodam.tech&type=ws&sni=Irancell.shodam.tech#%40parsashonam+%F0%9F%87%A9%F0%9F%87%AA+irancell+%7E+rightel+1
 
-vmess://eyJhZGQiOiJzcnYyLnBhcnNhc2hvbmFtLnRlY2giLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBhcnNhc2hvbmFtLnRlY2giLCJpZCI6IjExZGI5MzMzLTJlYTgtNDQ0Zi1lNjFmLTZjZjVlYzM5YTJlYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA5NiIsInBzIjoiQHBhcnNhc2hvbmFtIPCfh6nwn4eqIGlyYW5jZWxsIH4gcmlnaHRlbCIsInNjeSI6ImF1dG8iLCJzbmkiOiJwYXJzYXNob25hbS50ZWNoIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://303ad7bb-4eb9-4cbf-edd7-ac2e2031c8a3@srv3.shodam.tech:2053?path=%2F&security=tls&encryption=none&host=Irancell.shodam.tech&type=ws&sni=Irancell.shodam.tech#%40parsashonam+%F0%9F%87%A9%F0%9F%87%AA+irancell+%7E+rightel+1
 
-vless://ae664e65-b29b-4cad-8fc5-ad5854b0f8c4@srv1.parsashonam.tech:2083?path=%2F&security=tls&encryption=none&host=parsashonam.tech&type=ws&sni=parsashonam.tech#%40parsashonam+%F0%9F%87%A9%F0%9F%87%AA+irancell+%7E+rightel
-
-vless://ae664e65-b29b-4cad-8fc5-ad5854b0f8c4@srv2.parsashonam.tech:2083?path=%2F&security=tls&encryption=none&host=parsashonam.tech&type=ws&sni=parsashonam.tech#%40parsashonam+%F0%9F%87%A9%F0%9F%87%AA+irancell+%7E+rightel
+vless://303ad7bb-4eb9-4cbf-edd7-ac2e2031c8a3@srv4.shodam.tech:2053?path=%2F&security=tls&encryption=none&host=Irancell.shodam.tech&type=ws&sni=Irancell.shodam.tech#%40parsashonam+%F0%9F%87%A9%F0%9F%87%AA+irancell+%7E+rightel+1
