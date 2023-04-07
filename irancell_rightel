@@ -1,5 +1,11 @@
-vless://303ad7bb-4eb9-4cbf-edd7-ac2e2031c8a3@srv2.shodam.tech:2053?path=%2F&security=tls&encryption=none&host=Irancell.shodam.tech&type=ws&sni=Irancell.shodam.tech#%40parsashonam+%F0%9F%87%A9%F0%9F%87%AA+irancell+%7E+rightel+1
+vless://0733dea8-12dd-4e80-b1dd-9c0de9a513f8@srv2.shodam.tech:2096?path=%2F%40parsashonam&security=tls&encryption=none&host=10khasteh.shodam.tech&type=ws&sni=10khasteh.shodam.tech#%40parsashonam%F0%9F%87%A9%F0%9F%87%AA+Irancell+%26%26+rightel
 
-vless://303ad7bb-4eb9-4cbf-edd7-ac2e2031c8a3@srv3.shodam.tech:2053?path=%2F&security=tls&encryption=none&host=Irancell.shodam.tech&type=ws&sni=Irancell.shodam.tech#%40parsashonam+%F0%9F%87%A9%F0%9F%87%AA+irancell+%7E+rightel+1
+vless://0733dea8-12dd-4e80-b1dd-9c0de9a513f8@srv3.shodam.tech:2096?path=%2F%40parsashonam&security=tls&encryption=none&host=10khasteh.shodam.tech&type=ws&sni=10khasteh.shodam.tech#%40parsashonam%F0%9F%87%A9%F0%9F%87%AA+Irancell+%26%26+rightel
 
-vless://303ad7bb-4eb9-4cbf-edd7-ac2e2031c8a3@srv4.shodam.tech:2053?path=%2F&security=tls&encryption=none&host=Irancell.shodam.tech&type=ws&sni=Irancell.shodam.tech#%40parsashonam+%F0%9F%87%A9%F0%9F%87%AA+irancell+%7E+rightel+1
+vless://0733dea8-12dd-4e80-b1dd-9c0de9a513f8@srv4.shodam.tech:2096?path=%2F%40parsashonam&security=tls&encryption=none&host=10khasteh.shodam.tech&type=ws&sni=10khasteh.shodam.tech#%40parsashonam%F0%9F%87%A9%F0%9F%87%AA+Irancell+%26%26+rightel
+
+vmess://eyJhZGQiOiJzcnYyLnNob2RhbS50ZWNoIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxMGtoYXN0ZWguc2hvZGFtLnRlY2giLCJpZCI6ImM2OTVhMWVkLTFiM2UtNDViZi1jNDkyLWU4OTVmZWEzOWNmMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9AcGFyc2FzaG9uYW0iLCJwb3J0IjoiMjA1MyIsInBzIjoiQHBhcnNhc2hvbmFt8J+HqfCfh6ogSXJhbmNlbGwgXHUwMDI2XHUwMDI2IHJpZ2h0ZWwiLCJzY3kiOiJhdXRvIiwic25pIjoiMTBraGFzdGVoLnNob2RhbS50ZWNoIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiJzcnYzLnNob2RhbS50ZWNoIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxMGtoYXN0ZWguc2hvZGFtLnRlY2giLCJpZCI6ImM2OTVhMWVkLTFiM2UtNDViZi1jNDkyLWU4OTVmZWEzOWNmMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9AcGFyc2FzaG9uYW0iLCJwb3J0IjoiMjA1MyIsInBzIjoiQHBhcnNhc2hvbmFt8J+HqfCfh6ogSXJhbmNlbGwgXHUwMDI2XHUwMDI2IHJpZ2h0ZWwiLCJzY3kiOiJhdXRvIiwic25pIjoiMTBraGFzdGVoLnNob2RhbS50ZWNoIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiJzcnY0LnNob2RhbS50ZWNoIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIxMGtoYXN0ZWguc2hvZGFtLnRlY2giLCJpZCI6ImM2OTVhMWVkLTFiM2UtNDViZi1jNDkyLWU4OTVmZWEzOWNmMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9AcGFyc2FzaG9uYW0iLCJwb3J0IjoiMjA1MyIsInBzIjoiQHBhcnNhc2hvbmFt8J+HqfCfh6ogSXJhbmNlbGwgXHUwMDI2XHUwMDI2IHJpZ2h0ZWwiLCJzY3kiOiJhdXRvIiwic25pIjoiMTBraGFzdGVoLnNob2RhbS50ZWNoIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
